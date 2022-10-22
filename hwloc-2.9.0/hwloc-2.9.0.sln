@@ -27,8 +27,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hwloc-gather-cpuid", "third
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0_thirdparty", "0_thirdparty", "{22034F74-01A5-4685-8C76-469AFCE66209}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_demo", "1_demo", "{8C897ABB-686A-4642-8C56-C230A08A46D9}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libhwloc", "thirdparty\hwloc-2.9.0\libhwloc.vcxproj", "{9DE76C6D-4773-4766-9F93-69C56166CB8D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hwloc", "thirdparty\hwloc-2.9.0\hwloc.vcxproj", "{D8C4DF32-F672-4887-8CA9-96492BC93311}"
